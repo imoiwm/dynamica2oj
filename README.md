@@ -1,9 +1,9 @@
 # dynamica2oj
-Solutions to problems from the [Dynamic A2OJ ladder](https://dynamica2oj.online/)
+Solutions to problems from the [Dynamic A2OJ ladder](https://earthshakira.github.io/a2oj-clientside/server/Ladders.html)
 
 By Rating Completion:
 - [x] < 1300
-- [ ] 1300 - 1399 <-- Currently here
+- [ ] 1300 - 1399
 - [ ] 1400 - 1499
 - [ ] 1500 - 1599
 - [ ] 1600 - 1699
